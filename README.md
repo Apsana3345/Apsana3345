@@ -4,7 +4,7 @@
 
 <p align="left"></p>
 
-- 👨‍💻 All of my projects are available at [[https://apsanasharma.vercel.app/](https://apsana-sharma.vercel.app/)]
+- 👨‍💻 All of my projects are available at [[https://apsanasharma.vercel.app/](https://apsanasharma.com.np/)]
 
 - 📫 How to reach me **apsana20580912@gmail.com**
 
